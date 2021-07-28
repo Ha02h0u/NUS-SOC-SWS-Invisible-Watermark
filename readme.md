@@ -30,3 +30,6 @@ Usage: python3 mani.py [options] [source_video] [dest_video]
 ```
 
 You will also see this information when you use it in wrong format. 
+
+# Poster
+![poster](https://github.com/Ha02h0u/NUS-SOC-SWS-Invisible-Watermark/blob/main/poster.png)
