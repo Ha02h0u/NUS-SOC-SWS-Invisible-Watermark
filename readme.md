@@ -19,8 +19,7 @@ Requirement: ffmpeg environment
 ## attack
 mani.py - (stands for 'manipulate') Python code, charge of various attack to the video
 
-Requirement: cv2 numpy 
-	You may simply install them by `pip install cv2 numpy`
+Requirement: cv2 numpy (You may simply install them by `pip install cv2 numpy`)
 
 ## how to attack
 
