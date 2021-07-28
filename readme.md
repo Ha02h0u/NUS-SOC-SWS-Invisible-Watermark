@@ -10,4 +10,4 @@ Note: It's recommended to put your original video in the same folder as the prog
 ## source
 watermark.cpp - C++ Code, charge of frame watermark process
 
-Video_Watermark.e - [Easy Language](http://www.dywt.com.cn/) Code, charge of Windows program part
+Video_Watermark.e - [Easy Programming Language](http://www.dywt.com.cn/) Code, charge of Windows program part
