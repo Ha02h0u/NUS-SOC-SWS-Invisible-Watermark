@@ -14,6 +14,8 @@ Requirement: [OpenCV 2.4.13.6 environment](https://github.com/opencv/opencv/arch
 
 Video_Watermark.e - [Easy Programming Language](http://www.dywt.com.cn/) Code, charge of Windows program part
 
+(EPL Code isn't just text, so programmers have to use special IDE which is offered in its official website to program.)
+
 Requirement: ffmpeg environment
 
 ## attack
